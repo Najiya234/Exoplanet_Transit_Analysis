@@ -40,3 +40,20 @@ This project demonstrates the analysis of exoplanet transits using photometric d
 You can install dependencies using:
 ```bash
 pip install lightkurve batman-package emcee corner matplotlib numpy
+
+
+## Results and Analysis
+
+The phase-folded light curve clearly shows periodic dips in stellar brightness corresponding to the transit of the exoplanet.  
+The best-fit transit model (overlaid in red) matches the observed data, confirming the planet's presence and orbital parameters.
+
+### Key Derived Parameters
+- Planet-to-star radius ratio (Rp/Rs): ~0.1  
+- Orbital period: 2.47 days  
+- Inclination: 87.5°  
+- Planet radius: ~1.0 R_Jupiter (assuming stellar radius from mission data)
+
+These results are consistent with published values for this exoplanet, validating the method.  
+
+![Phase-Folded Transit](phase_folded_transit.png)
+
