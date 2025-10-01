@@ -41,7 +41,7 @@ You can install dependencies using:
 ```bash
 pip install lightkurve batman-package emcee corner matplotlib numpy
 
-
+```
 ## Results and Analysis
 
 The phase-folded light curve clearly shows periodic dips in stellar brightness corresponding to the transit of the exoplanet.  
