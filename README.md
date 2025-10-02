@@ -55,5 +55,5 @@ The best-fit transit model (overlaid in red) matches the observed data, confirmi
 
 These results are consistent with published values for this exoplanet, validating the method.  
 
-![Phase-Folded Transit](phase_folded_transit.png)
+![Phase-Folded-Transit](Phase_Folded_Transit.png)
 
