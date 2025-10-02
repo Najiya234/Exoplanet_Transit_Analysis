@@ -55,5 +55,22 @@ The best-fit transit model (overlaid in red) matches the observed data, confirmi
 
 These results are consistent with published values for this exoplanet, validating the method.  
 
+## Optional Extensions
+
+- Compare Kepler vs TESS data for the same exoplanet to analyze differences in light curve quality and noise.  
+- Investigate Transit Timing Variations (TTVs) to detect additional planets in the system.  
+- Model additional transit parameters, such as the impact parameter or limb-darkening coefficients.  
+- Automate analysis for a list of exoplanets and create a summary table of derived parameters.  
+- Integrate the pipeline with interactive visualization tools (e.g., Plotly) for dynamic light curve exploration.
+
+---
+
+## Author and License
+
+**Author:** Your Name – [GitHub Profile](https://github.com/Najiya234)  
+
+**License:** This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+
 ![Phase-Folded-Transit](Phase_Folded_Transit.png)
 
