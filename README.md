@@ -54,6 +54,7 @@ The best-fit transit model (overlaid in red) matches the observed data, confirmi
 - Planet radius: ~1.0 R_Jupiter (assuming stellar radius from mission data)
 
 These results are consistent with published values for this exoplanet, validating the method.  
+![Phase-Folded-Transit](Phase_Folded_Transit.png)
 
 ## Optional Extensions
 
@@ -70,7 +71,3 @@ These results are consistent with published values for this exoplanet, validatin
 **Author:** Your Name – [GitHub Profile](https://github.com/Najiya234)  
 
 **License:** This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-
-![Phase-Folded-Transit](Phase_Folded_Transit.png)
-
